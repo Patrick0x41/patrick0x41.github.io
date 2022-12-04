@@ -12,7 +12,7 @@ Hello friend. My name is Patrick I am an enthusiastic penetration tester who lov
 
 # Certificates 
 - Certified Red Team Operator (CRTO)
-- elearnsecurity Certified Penetration Tester Extreme (eCPTXv2)
-- elearnsecurity Web application penetration tester Extreme (eWPTXv2)
-- elearnsecurity Certified Professional Penetration Tester (eCPPTv2)
+- Elearnsecurity Certified Penetration Tester Extreme (eCPTXv2)
+- Elearnsecurity Web application penetration tester Extreme (eWPTXv2)
+- Elearnsecurity Certified Professional Penetration Tester (eCPPTv2)
 
