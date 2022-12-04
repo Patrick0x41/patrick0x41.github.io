@@ -17,7 +17,7 @@ after i made subdomain enumeration and parameter fuzzing i found there is a para
 ![Reflected-Parameter](/images/reflection.png)
 
 ![Reflected-Parameter](/images/chrome_6EGCRMWxBi.png)
-i tryed to to use event handler to execute a javascript as a proof of concept unfortunately the web application firewall blocked it 
+i tried to to use an event handler to execute a javascript as a proof of concept unfortunately the web application firewall blocked it 
 ![Blocked](/images/chrome_s5ryEJ6hXi.png)
 
 ## Fuzzing the web application firewall
