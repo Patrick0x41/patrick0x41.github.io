@@ -26,7 +26,7 @@ I created this site as a way to share my ideas, research, tools, or anything els
 - [CVE-2023-47421](https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2023-47421)
 
 # Social
-
+- [linkedin](https://www.linkedin.com/in/patrick0x41/)
 - [Youtube](https://www.youtube.com/channel/UCgCxwu_S1B7VBcUr0iwFP0w)
 - [Twitter](https://twitter.com/patrick0x41)
 - [Hackerone](https://hackerone.com/30t4)
