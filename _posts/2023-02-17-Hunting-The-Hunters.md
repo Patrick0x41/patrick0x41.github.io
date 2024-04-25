@@ -15,7 +15,7 @@ I was trying to automate my bug hunting process so i searched for public tools t
 
 ## Setup
 
-After installing rengine on my VPS, I attempted to hide the dashboard by configuring the port to only be accessible through localhost. During this process, I discovered that multiple ports were exposed through Docker, including the database port. As a result, I began to investigate further and found that there were hard-coded credentials for both the database and the dashboard during installation. `Note that newer versions of rengine include warning messages to prompt users to change these credentials.`
+After installing rengine on my VPS, I attempted to hide the dashboard by configuring the port to only be accessible through localhost. During this process, I discovered that multiple ports were exposed through Docker, including the database port. As a result, I began to investigate further and found that there was hard-coded credentials for the database. `Note that newer versions of rengine include warning messages to prompt users to change these credentials.`
 
 ## Reconnaissance
 
