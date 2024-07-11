@@ -18,7 +18,7 @@ I created this site as a way to share my ideas, research, tools, or anything els
 
 
 # CVE & Security Advisories
-
+- [ZDI-CAN-23966](https://www.zerodayinitiative.com/advisories/upcoming/)
 - [CVE-2021-43419](https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2021-43419)
 - [CVE-2023-47020](https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2023-47020)
 - [CVE-2023-47022](https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2023-47022)
